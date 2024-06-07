@@ -1,0 +1,13 @@
+{
+  "name": "discourse-sample-custom-homepage",
+  "authors": "Discourse",
+  "about_url": "https://github.com/pmusaraj/discourse-sample-custom-homepage",
+  "theme_version": "0.0.1",
+  "modifiers": {
+    "custom_homepage": "true",
+    "serialize_topic_excerpts": "true",
+    "topic_thumbnail_sizes": [
+      [400, 400]
+    ]
+  }
+}
